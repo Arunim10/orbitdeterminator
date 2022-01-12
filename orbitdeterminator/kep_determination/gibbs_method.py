@@ -13,6 +13,7 @@ import re
 
 pi = np.pi
 mu_Earth = 398600.4418
+# print(mu_Earth)
 
 
 def check_coplanarity(r1, r2, r3, tol = 1e-4):
